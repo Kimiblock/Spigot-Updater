@@ -25,7 +25,7 @@ Open the shell script.
 
 ### Step 2
 
-Check the location where you store you server.
+Check the location where you store your server.
 
 ### Step 3
 
