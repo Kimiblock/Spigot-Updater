@@ -1,5 +1,5 @@
 Jar_Name=Spigot-Latest.jar
-Server_Path=~/test
+Server_Path=
 Tool_Url=https://hub.spigotmc.org/jenkins/job/BuildTools/lastSuccessfulBuild/artifact/target/BuildTools.jar
 Tool_Name=BuildTools.jar
 Cache=~/Spigot_Update
