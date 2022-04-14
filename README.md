@@ -3,7 +3,7 @@ A simple updater for Spigot server, using the latest BuildTools
 
 # Description
 
-This is a shell script can update `Spigot Minecraft Server` automatically.
+This is a shell script that can update `Spigot Minecraft Server` automatically.
 
 # Way to use
 
